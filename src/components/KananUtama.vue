@@ -17,7 +17,7 @@
     <!-- <QRdownload /> -->
     <div
       id="qrContainer"
-      class="flex flex-col items-center justify-center px-5 py-5 h-screen xl:w-full"
+      class="hidden flex-col items-center justify-center px-5 py-5 h-screen xl:w-full"
     >
       <div
         class="relative flex flex-col xl:p-20 h-screen border-2 border-white rounded-xl"
