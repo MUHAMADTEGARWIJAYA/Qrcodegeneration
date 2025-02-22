@@ -1,6 +1,6 @@
 <template lang="">
   <div class="h-screen">
-    <div class="flex flex-col items-end justify-center xl:px-5 py-5 h-screen xl:w-full">
+    <div class="flex flex-col items-end justify-center px-5 py-5 h-screen xl:w-full">
       <div class="relative flex flex-col xl:p-20 h-screen border-2 border-white rounded-xl">
         <ImagesShared />
         <QRshared />
