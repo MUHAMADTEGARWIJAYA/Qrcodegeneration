@@ -17,10 +17,10 @@
     <!-- <QRdownload /> -->
     <div
       id="qrContainer"
-      class="hidden flex-col items-end justify-center px-5 py-5 h-screen w-full"
+      class="flex flex-col items-center justify-center px-5 py-5 h-screen xl:w-full"
     >
       <div
-        class="relative flex flex-col gap-16 p-20 h-screen border-2 border-white rounded-xl"
+        class="relative flex flex-col xl:p-20 h-screen border-2 border-white rounded-xl"
         :style="{ backgroundColor: backgroundColor }"
       >
         <ImagesShared />
