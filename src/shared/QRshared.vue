@@ -1,5 +1,5 @@
 <template lang="">
-  <div class="border border-white w-80 h-80 rounded-3xl flex items-center justify-center">
+  <div class="border border-white w-[350px] h-[350px] rounded-3xl flex items-center justify-center">
     <div
       class="flex items-center justify-center bg-white rounded-3xl w-[310px] h-[310px] shadow-2xl"
     >
