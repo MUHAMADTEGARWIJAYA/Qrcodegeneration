@@ -22,7 +22,7 @@
       class="hidden flex-col items-center justify-center px-5 py-5 h-screen xl:w-full"
     >
       <div
-        class="relative flex flex-col xl:p-20 h-screen border-2 p-4 items-center border-white rounded-xl"
+        class="relative flex flex-col xl:p-20 h-screen border-2 p-4 items-center rounded-xl"
         :style="{ backgroundColor: backgroundColor }"
       >
         <ImagesShared />
