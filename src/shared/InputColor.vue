@@ -18,7 +18,6 @@
       id="colorPicker"
       :value="modelValue"
       @input="$emit('update:modelValue', $event.target.value)"
-      class="hidden"
     />
   </div>
 </template>
