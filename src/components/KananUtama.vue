@@ -1,7 +1,9 @@
 <template lang="">
   <div class="h-screen">
     <div class="flex flex-col items-center justify-center px-5 py-5 h-screen xl:w-full">
-      <div class="relative flex flex-col xl:p-20 h-screen border-2 border-white rounded-xl">
+      <div
+        class="relative flex flex-col xl:p-20 h-screen border-2 border-white rounded-xl p-4 items-center"
+      >
         <ImagesShared />
         <QRshared />
         <div class="xl:p-0 px-5 flex flex-col mt-4">
@@ -20,7 +22,7 @@
       class="hidden flex-col items-center justify-center px-5 py-5 h-screen xl:w-full"
     >
       <div
-        class="relative flex flex-col xl:p-20 h-screen border-2 border-white rounded-xl"
+        class="relative flex flex-col xl:p-20 h-screen border-2 p-4 items-center border-white rounded-xl"
         :style="{ backgroundColor: backgroundColor }"
       >
         <ImagesShared />
